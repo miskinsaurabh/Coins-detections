@@ -1,0 +1,24 @@
+Task:
+
+Detect circles in the image and draw straight lines connecting centres of circles using OpenCV.
+
+Submission:
+Upload the assignment to github/gitlab (Share the repository link if it’s public or send invite if private)
+Or
+Mail the assignment
+
+Submission should include:
+
+    1. Readme file - explaining any relevant thought process as well as the general approach for the task.
+    2. A list of dependencies/libraries & their versions to run the code.
+    3. Output image generated from the code.
+    
+Timelines:
+
+THE ASSIGNMENT SHOULD BE SUBMITTED WITHIN 48 HOURS OF RECEIVING IT. EXTENSION CAN BE PERMITTED IF NECESSARY AND SHOULD BE ASKED FOR, BEFORE THE DEADLINE IS OVER. 
+
+
+
+
+
+
